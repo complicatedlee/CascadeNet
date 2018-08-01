@@ -2,11 +2,14 @@
 CascadeNet: Modified ResNet with Cascade Blocks
 
 
-# Setup
+## Setup
 Download and extract CIFAR-10 data
 
-# Training
+## Training
 
 python train.py
 
-# Updating
+## Updating
+
+## Acknowledgment
+Xiang Li, W. Li, Qian Du, "CascadeNet: Modified ResNet with Cascade Blocks,"
